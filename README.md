@@ -14,6 +14,7 @@ Learn more about the React context api and React hooks.
 <li>Adding a Context and Provider</li>
 <li>Accessing Context part 1 (use the static contextType)</li>
 <li>Accessing Context part 2 (use the Consumer)</li>
+<li>Updating Context data</li>
 </ol>
 
 ***
