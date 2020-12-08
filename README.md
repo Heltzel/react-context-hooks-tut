@@ -5,6 +5,13 @@
 Learn more about the React context api and React hooks.
 
 ***
+## Branches:
+<ul>
+<li>main</li>
+<li>Hooks (contains package: uuid)</li>
+</ul>
+
+***
 
 ## Lessons:
 
@@ -18,6 +25,18 @@ Learn more about the React context api and React hooks.
 <li>Creating multiple contexts</li>
 <li>Consuming multiple contexts</li>
 <li>Intro hooks</li>
+<li>useState Hook </li>
 </ol>
+
+
+***
+
+## Docs:
+
+|Subject   | Link                                                                      |
+|:---------|:-----------                                                               |
+| Lessons  |  https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI | 
+| Uuid     |  https://github.com/uuidjs/uuid                                           | 
+|          |                                                                           |
 
 ***
