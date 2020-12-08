@@ -16,6 +16,8 @@ Learn more about the React context api and React hooks.
 <li>Accessing Context part 2 (use the Consumer)</li>
 <li>Updating Context data</li>
 <li>Creating multiple contexts</li>
+<li>Consuming multiple contexts</li>
+<li>Intro hooks</li>
 </ol>
 
 ***
