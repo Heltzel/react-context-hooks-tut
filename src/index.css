@@ -36,3 +36,6 @@ nav ul li {
   margin: 10px auto;
   border-radius: 10px;
 }
+.btn {
+  cursor: pointer;
+}

@@ -5,6 +5,10 @@ export default class ThemeToggle extends Component {
   static contextType = ThemeContext
   render() {
     const { toggleTheme } = this.context
-    return <button onClick={toggleTheme}>Toggle Theme</button>
+    return (
+      <button onClick={toggleTheme} className="btn">
+        Toggle Theme
+      </button>
+    )
   }
 }
