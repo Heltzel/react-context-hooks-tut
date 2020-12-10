@@ -26,6 +26,8 @@ Learn more about the React context api and React hooks.
 <li>Consuming multiple contexts</li>
 <li>Intro hooks</li>
 <li>useState Hook </li>
+<li>useState with forms </li>
+<li>useEffect Hook </li>
 </ol>
 
 
