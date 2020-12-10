@@ -11,6 +11,7 @@ Learn more about the React context api and React hooks.
 <ol>
 <li>Hooks and Context</li>
 <li>Multiple contexts using Hooks</li>
+<li>Creating  context with functional components</li>
 </ol>
 
 ***
